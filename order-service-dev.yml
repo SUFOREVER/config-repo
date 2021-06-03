@@ -15,3 +15,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/
 
 name: order-service-dev-2.0
+password: '{cipher}53a7aae1469560d20a397998392d42d50f66a896a4c33e83a41b2a2214a372e8'
