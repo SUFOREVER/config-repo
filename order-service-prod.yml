@@ -11,5 +11,5 @@ eureka:
     service-url:                                  #注册中心对外暴露的注册地址
       defaultZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/
 
-name: order-service-prod
+name: order-service-prod-1.0
 password:  '{cipher}AQAfWcQpX98kH14ukdqAf88tgtGA0DpemB3iBNqNxb44lmp+ABarEYOxqYvhp6WT+N5dvqf+9pcZWN4wLP5ezTv5uJB6SHEJAaXK7qVVoY1EqO0NiRQv0nOwOyxOXAk3PDaqdxeY4maeMydlUkfkkxgvJBWLVHfoHYjR8lOmdtQeUyAr8va39KMA9HM4mjY2qxQDonXnLTBKkFZOpjp7FTHbzLecUIDia6v31tA47v/uFw5Ce1SZWn43V2qwQ6n0beAlCaepnn9suGfPDm6rkkFCBWY0J4/rLxb5GvkmUXT7bD2m1DkYvMBPx/EX5/xd/4+Np7kQXfnyCW2IltewtoBi0XGw+tP9sGc0zi35e5XhFYWNMWgnUiqIdHjkgVcatdA='
